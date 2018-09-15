@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Climate is what you expect, weather is what you get"
 Use the left arrow to go back!
